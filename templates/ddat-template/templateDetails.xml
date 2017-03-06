@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" type="template">
+	<name>ddat-template</name>
+	<creationDate>2017-03-06</creationDate>
+	<author>Amy Everett</author>
+	<authorEmail>aeverett.uk@gmail.com</authorEmail>
+	<authorUrl>http://www.example.com</authorUrl>
+	<copyright>Amy Everett 2017</copyright>
+	<license>GNU/GPL</license>
+	<version>3.7.0</version>
+	<description>Ddat Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
