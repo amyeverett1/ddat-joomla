@@ -11,7 +11,6 @@
 /administrator/logs
 /cache
 /installation/cache
-/tmp
 /configuration.php
 /.htaccess
 /web.config
