@@ -86,7 +86,7 @@ class InstallationModelConfiguration extends JModelBase
 		$registry->set('dbprefix', $options->db_prefix);
 
 		// Server settings.
-		$registry->set('live_site', '');
+		$registry->set('live_site', 'https://ddatcms.herokuapp.com');
 		$registry->set('secret', JUserHelper::genRandomPassword(16));
 		$registry->set('gzip', 0);
 		$registry->set('error_reporting', 'default');
